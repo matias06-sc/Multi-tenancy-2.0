@@ -108,4 +108,4 @@ para analizar el rendimiento general del taller.
 - El reporte debe incluir: número total de órdenes, materiales usados y cantidad de entregas.  
 - Debe poder **exportarse a PDF o Excel** desde la interfaz.  
 - El endpoint **`GET /api/produccion/reportes`** debe devolver la información consolidada para el periodo seleccionado.  
-"""
+
